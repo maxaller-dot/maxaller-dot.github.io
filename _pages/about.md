@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I want to live a fufilling life; and what better way is there to do that then by becoming an engineer! In the future, I hope to engage myself in nuclear and mechancial engineering
+I am an undergraduate student at The George Washington University pursuing a B.S. in Mechanical Engineerings
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
